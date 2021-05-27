@@ -1,5 +1,5 @@
-import cliente as cli
-import servidor as serv
+import cliente_PRACTICA as cli
+import servidor_PRACTICA as serv
 
 opcion = str(input("introduzca (1) para ejecutar cliente o (2) para ejecutar servidor "))
 if opcion == '1':
